@@ -3,7 +3,8 @@ This project applies machine learning to classify Iris flowers into Setosa, Vers
 iris-flower-classification
 This project applies machine learning to classify Iris flowers into Setosa, Versicolor, and Virginica. It includes data cleaning, visualization, and model building using Logistic Regression, KNN, Naive Bayes, Decision Tree, and SVM, with most models achieving above 95% accuracy.
 
-9a32d741-51c7-4573-9799-8d933ee642c6
+<img width="1000" height="447" alt="image" src="https://github.com/user-attachments/assets/cf495d1b-9253-46f6-997d-75ff6827af1f" />
+
 The Iris Flower Classification Project is a supervised machine learning project built on the well-known Iris dataset, originally introduced by the statistician Ronald Fisher. The goal of the project is to develop models that can accurately classify iris flowers into one of three species: Iris-setosa, Iris-versicolor, and Iris-virginica, based on four input features — Sepal Length, Sepal Width, Petal Length, and Petal Width.
 
 Data Exploration and Preprocessing
